@@ -21,6 +21,10 @@ This is a web-based version of a classic number guessing game. The computer pick
 - Clean, simple interface
 - Play again option
 
+  ## What I Learned
+
+Built this project to practice Python fundamentals including random number generation, conditional logic, and user input handling. Also gained experience deploying a web application using Streamlit.
+
 ## Run Locally
 
 If you want to run this on your own machine:
