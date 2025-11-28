@@ -3,6 +3,8 @@
 
 A simple and fun number guessing game built with Python and Streamlit.
 
+![Game Screenshot](python_number_game.png)
+
 ## About
 
 This is a web-based version of a classic number guessing game. The computer picks a random number between 1 and 100, and you try to guess it. After each guess, you'll get feedback on whether your guess was too high or too low.
