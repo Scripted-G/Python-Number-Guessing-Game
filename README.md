@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/23563642/README.md)
 # 🎲 Number Guessing Game
 
 A simple and fun number guessing game built with Python and Streamlit.
