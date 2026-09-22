@@ -48,3 +48,7 @@ streamlit run app.py
 
 - Python
 - Streamlit
+
+## License
+
+This project is licensed under the MIT License. See `LICENSE` for details.
